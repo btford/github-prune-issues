@@ -2,6 +2,12 @@
 
 CLI for closing old Github issues.
 
+## Installation
+
+```shell
+npm install -g github-prune-issues
+```
+
 ## Usage
 
 ```shell
