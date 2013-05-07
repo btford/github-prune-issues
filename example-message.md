@@ -1,0 +1,1 @@
+This issue is being automatically closed due to inactivity. Please see [this](http://example.com/) post for more information. If you feel strongly about this issue and what it re-opened, feel free to comment below.

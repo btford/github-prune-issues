@@ -1,0 +1,21 @@
+{
+  "name": "github-prune-issues",
+  "version": "0.0.1",
+  "description": "Automagically close stale GH issues",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Brian Ford",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "~1.1.1",
+    "q": "~0.9.3",
+    "github": "~0.1.8",
+    "lodash": "~1.2.1"
+  },
+  "bin": {
+    "github-prune-issues": "./main.js"
+  }
+}
