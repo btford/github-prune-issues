@@ -10,7 +10,7 @@ github-prune-issues <config-file.js>
 
 ## Config File
 
-See `./example-config.js`.
+See [`./example-config.js`](https://github.com/btford/github-prune-issues/blob/master/example-config.js).
 
 ### Note:
 
